@@ -1,0 +1,10 @@
+li{
+	text-align: center;
+	font-size: 35px;
+	color: #AAAAAA;
+}
+
+body{
+	background:white url("images/free-photo-background-950.jpg") center no-repeat;
+	background-size: 1600px 1200px;
+}
